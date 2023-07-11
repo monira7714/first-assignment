@@ -1,0 +1,148 @@
+body {
+    font-family: Lato;
+}
+
+/* heading starts from here */
+
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    padding-left: 230px;
+    width: 1920px;
+    height: 850px;
+}
+
+.h-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.h-info {
+    padding-top: 130px;
+}
+
+.h-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.h-des {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.b-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    padding: 20px 40px;
+    color: white;
+}
+
+.h-img {
+    width: 635px;
+    height: 800px;
+    padding-top: 50px;
+}
+
+/* main starts from here  */
+
+.bonus-featured {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 100px;
+    width: 1920px;
+    gap: 10px;
+}
+
+.f-c-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.f-c-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.featured-flower {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.f-f-img {
+    align-items: center;
+}
+
+#wing6 {
+    padding: 110px 78px 0px 76px;
+}
+
+#wing5 {
+    padding: 117px 47px 51px 47px;
+}
+
+#wing7 {
+    padding: 67px 75px 0px 75px;
+}
+
+.f-f-first {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-bottom: 0px;
+    padding-top: ;
+}
+
+.f-f-second {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    /* padding-bottom: 50px; */
+}
+
+.f-f-third {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    /* padding-bottom: 0px; */
+}
+
+h5 {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+.hot-deal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* padding: 100px 240px; */
+    width: 1920px;
+    height: 620px;
+    margin-top: 200px;
+    padding-left: 215px;
+    gap: 10px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
