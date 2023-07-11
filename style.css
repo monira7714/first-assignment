@@ -384,7 +384,7 @@ span {
  
 footer {
     margin: 0px;
-    width: 1920px;
+    width: 2000px;
     height: 450px;
     text-align: center;
     background: #111010;
@@ -406,7 +406,7 @@ footer {
     line-height: 30px;
 }
 
-.copyright {
+.copy-right {
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
     font-family: Lato;
